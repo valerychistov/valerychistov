@@ -28,28 +28,11 @@ I'm especially interested in:
 
 ## Organizations
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/scimaps">
-        <img src="https://avatars.githubusercontent.com/u/357013956?v=4&amp;s=128" alt="SciMaps" width="64" height="64" /><br />
-        <sub><b>SciMaps</b></sub>
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/smpl-works-hq">
-        <img src="https://avatars.githubusercontent.com/u/357014406?v=4&amp;s=128" alt="SMPL Works" width="64" height="64" /><br />
-        <sub><b>SMPL Works</b></sub>
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/disruptiveforesight">
-        <img src="https://avatars.githubusercontent.com/u/357014493?v=4&amp;s=128" alt="Disruptive Foresight" width="64" height="64" /><br />
-        <sub><b>Disruptive<br />Foresight</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/scimaps"><img src="assets/organizations/scimaps.svg" alt="SciMaps" width="128" height="128" /></a>
+  <a href="https://github.com/smpl-works-hq"><img src="assets/organizations/smpl-works-hq.svg" alt="SMPL Works" width="128" height="128" /></a>
+  <a href="https://github.com/disruptiveforesight"><img src="assets/organizations/disruptiveforesight.svg" alt="Disruptive Foresight" width="128" height="128" /></a>
+</p>
 
 ## Technologies in my projects
 
