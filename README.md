@@ -28,19 +28,28 @@ I'm especially interested in:
 
 ## Organizations
 
-<p align="center">
-  <a href="https://github.com/scimaps" title="SciMaps"><img src="https://avatars.githubusercontent.com/u/357013956?v=4&amp;s=128" alt="SciMaps" width="64" height="64" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/smpl-works-hq" title="SMPL Works"><img src="https://avatars.githubusercontent.com/u/357014406?v=4&amp;s=128" alt="SMPL Works" width="64" height="64" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/disruptiveforesight" title="Disruptive Foresight"><img src="https://avatars.githubusercontent.com/u/357014493?v=4&amp;s=128" alt="Disruptive Foresight" width="64" height="64" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/scimaps">SciMaps</a> ·
-  <a href="https://github.com/smpl-works-hq">SMPL Works</a> ·
-  <a href="https://github.com/disruptiveforesight">Disruptive Foresight</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/scimaps">
+        <img src="https://avatars.githubusercontent.com/u/357013956?v=4&amp;s=128" alt="SciMaps" width="64" height="64" /><br />
+        <sub><b>SciMaps</b></sub>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/smpl-works-hq">
+        <img src="https://avatars.githubusercontent.com/u/357014406?v=4&amp;s=128" alt="SMPL Works" width="64" height="64" /><br />
+        <sub><b>SMPL Works</b></sub>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/disruptiveforesight">
+        <img src="https://avatars.githubusercontent.com/u/357014493?v=4&amp;s=128" alt="Disruptive Foresight" width="64" height="64" /><br />
+        <sub><b>Disruptive<br />Foresight</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Technologies in my projects
 
