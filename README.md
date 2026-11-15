@@ -26,6 +26,22 @@ I'm especially interested in:
 - **Possible futures:** combining emerging trends to explore how industries could evolve.
 - **Interactive learning:** bringing course materials, visual frameworks, and scenario exercises together on the web.
 
+## Organizations
+
+<p align="center">
+  <a href="https://github.com/scimaps" title="SciMaps"><img src="https://avatars.githubusercontent.com/u/357013956?v=4&amp;s=128" alt="SciMaps" width="64" height="64" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/smpl-works-hq" title="SMPL Works"><img src="https://avatars.githubusercontent.com/u/357014406?v=4&amp;s=128" alt="SMPL Works" width="64" height="64" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/disruptiveforesight" title="Disruptive Foresight"><img src="https://avatars.githubusercontent.com/u/357014493?v=4&amp;s=128" alt="Disruptive Foresight" width="64" height="64" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/scimaps">SciMaps</a> ·
+  <a href="https://github.com/smpl-works-hq">SMPL Works</a> ·
+  <a href="https://github.com/disruptiveforesight">Disruptive Foresight</a>
+</p>
+
 ## Technologies in my projects
 
 <p align="center">
