@@ -1,8 +1,11 @@
 <div align="center">
 
-# Valery Chistov
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:101B28,100:203C45&amp;height=200&amp;section=header&amp;text=Valery%20Chistov&amp;fontSize=64&amp;fontColor=F2F0E9&amp;animation=fadeIn&amp;fontAlignY=40" alt="Valery Chistov" width="100%" />
 
-### Digital transformation · Strategic foresight · Interactive learning
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=AFD9C7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Digital+transformation;Strategic+foresight;Interactive+learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=203C45&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Digital+transformation;Strategic+foresight;Interactive+learning" alt="Digital transformation · Strategic foresight · Interactive learning" width="500" />
+</picture>
 
 Turning ideas about technology and change into resources you can explore.
 
@@ -22,6 +25,17 @@ I'm especially interested in:
 - **Technology and organizational change:** connecting digital tools with strategy, culture, and value creation.
 - **Possible futures:** combining emerging trends to explore how industries could evolve.
 - **Interactive learning:** bringing course materials, visual frameworks, and scenario exercises together on the web.
+
+## Technologies in my projects
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,githubactions&amp;theme=dark" alt="HTML, CSS, JavaScript, GitHub, and GitHub Actions" width="260" height="48" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_API-203C45?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=AFD9C7" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-101B28?style=for-the-badge&amp;logo=github&amp;logoColor=AFD9C7" alt="GitHub Pages" />
+</p>
 
 ## Selected projects
 
@@ -43,14 +57,14 @@ A growing home for my projects, ideas, and writing. Built with plain HTML and CS
 
 [Visit the website →](https://valerychistov.github.io/) · [View the source →](https://github.com/valerychistov/valerychistov.github.io)
 
-## Technologies in my projects
+## GitHub stats
 
-![HTML](https://img.shields.io/badge/HTML-203C45?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-203C45?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-203C45?style=flat-square)
-![Gemini API](https://img.shields.io/badge/Gemini_API-203C45?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-203C45?style=flat-square)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-203C45?style=flat-square)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valerychistov&amp;theme=github_dark&amp;bg_color=101B28&amp;title_color=AFD9C7&amp;text_color=E0E5E4&amp;icon_color=AFD9C7&amp;border_color=203C45" alt="Valery Chistov's public GitHub stats: stars, commits, pull requests, issues, and repositories contributed to" width="360" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valerychistov&amp;theme=github_dark&amp;bg_color=101B28&amp;title_color=AFD9C7&amp;text_color=E0E5E4&amp;border_color=203C45" alt="Languages used across Valery Chistov's public repositories" width="360" />
+</p>
+
+<p align="center"><sub>Public GitHub activity · Language breakdown by repository count</sub></p>
 
 ---
 
